@@ -4,6 +4,14 @@
 Hint: You'll want to assign a class to the associated <th> and <td> tags
 in your index.html and script.js files. */
 
+.moola {
+    text-align: right;
+}
+
+th, td {
+    padding: 15px;
+}
+
 .chart {
-  height: 500px;
+  height: 675px;
 }
